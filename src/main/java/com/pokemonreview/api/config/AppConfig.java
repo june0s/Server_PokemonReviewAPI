@@ -17,7 +17,7 @@ import java.util.stream.IntStream;
 
 // 설정 클래스
 @Configuration
-@Profile("test") // 설정 파일이 test 일 때만 실행된다.
+//@Profile("test") // 설정 파일이 test 일 때만 실행된다.
 public class AppConfig {
 
     // Test data
