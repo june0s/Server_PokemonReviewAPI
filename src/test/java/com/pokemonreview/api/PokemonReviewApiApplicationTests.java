@@ -10,4 +10,8 @@ class PokemonReviewApiApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void test() {
+
+	}
 }
